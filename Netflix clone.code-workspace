@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../Netflix clone"
+	},
+	{
+		"path": "../survey webpage"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tribue webpage"
+  }
+}
